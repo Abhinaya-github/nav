@@ -1,0 +1,20 @@
+div{
+    width: 100%;
+    background-color: chocolate;
+    padding: 30px;
+    font-size: 2em;
+   position: fixed;
+    
+    position: fixed;
+    margin-left: -1px;
+}
+span {
+ margin-left: 20px;
+}
+span:hover{
+    background-color: rgb(226, 219, 219);
+}main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   
+}
